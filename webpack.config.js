@@ -9,6 +9,7 @@ module.exports = {
   },
   watch: true,
   devtool: "inline-source-map",
+  plugins: [new webpack.SourceMapDevToolPlugin({ filename: "main.map", append: false })],
   externals: {
     perf_hooks: "commonjs perf_hooks"
   }

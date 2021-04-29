@@ -1,6 +1,8 @@
 import { resetPerf, logPerf } from "./utils/perf";
 import { resetTimeout } from "./utils/timeout";
 import { play } from "./game";
+import { log } from "./utils/log";
+import { globalConst } from "./constant/global";
 
 // The Game Loop
 while (true) {
@@ -14,5 +16,5 @@ while (true) {
     log(true, "ERROR", error);
   }
 
-  turn++;
+  globalConst.turn++;
 }

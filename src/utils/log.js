@@ -1,4 +1,6 @@
-import { DEBUG_MODE } from "../constant/debug";
+import debugConst from "../constant/debug";
+
+const { DEBUG_MODE } = debugConst;
 
 export function log(show, message, ...obj) {
   if (DEBUG_MODE && show) {

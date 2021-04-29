@@ -1,4 +1,11 @@
+import debugConst from "../constant/debug";
+import { globalConst } from "../constant/global";
+import { log } from "./log";
+
 const { performance } = require("perf_hooks");
+
+const { turn } = globalConst;
+const { DEBUG_PERF } = debugConst;
 
 let perfs = [];
 
