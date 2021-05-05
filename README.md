@@ -8,6 +8,7 @@ Pour pouvoir participer il vous faudra :
 
 - Le navigateur Chrome
 - Les modules complémentaires suivant : [CodinGameSync - Ext](https://chrome.google.com/webstore/detail/codingame-sync-ext/ldjnbdgcceengbjkalemckffhaajkehd?hl=fr) et [CodinGame Sync - App](https://chrome.google.com/webstore/detail/codingame-sync-app/nmdombhgnofjnnaenegcdehnbkajfgbh?hl=fr)
+- Alternative CG-Local-app est une petite application alternative à lancer sur son poste et qui se lie à votre navigateur aussi via un plugin sur Firefox et Chrome [CG-local-app](https://www.codingame.com/forum/t/cg-local/10359)
 - Un compte sur Coding Game
 - S'inscrire sur le lien du [Challenge](https://www.codingame.com/contests/spring-challenge-2021)
 - Dans la section [Profil](https://www.codingame.com/profile), veuillez paramétrer l'entreprise et marquer **ACENSI**
@@ -53,3 +54,9 @@ Pour beaucoup de ces challenges vous allez avoir besoin alors de faire des reche
 - beam-search [Wikipedia FR](https://fr.wikipedia.org/wiki/Algorithme_de_recherche_en_faisceau) [WikiBooks EN](https://en.wikibooks.org/wiki/Artificial_Intelligence/Search/Heuristic_search/Beam_search)
 - Algorithme A* [Wikipedia](https://fr.wikipedia.org/wiki/Algorithme_A*)
 - D'autres Algorithmes de Recherche [Wikibooks](https://en.wikibooks.org/wiki/Artificial_Intelligence/Search)
+
+## Quelques liens supplémentaires
+
+- [Liens de statistiques](http://cgstats.magusgeek.com/app)
+- [Script Navigateurs d'amélioration de l'IHM du context](https://github.com/Azkellas/cgenhancer)
+- [De la lecture pour vous améliorer](https://www.codingame.com/blog/design-ai-contest/)
